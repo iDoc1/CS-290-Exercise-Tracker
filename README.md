@@ -4,6 +4,10 @@ This project is my portfolio project for CS 290: Web Design, which I attended at
 University. This web app allows a user to enter information about an exercise they performed,
 then they can view, edit, or delete any exercise record.
 
+This app utilizes the full MERN stack. React acts as the UI, MongoDB as the database, and
+Express as the database server. The Express server was built using REST design principles,
+so the Express server in this app is RESTful.
+
 Prerequisites:
     - Node.js and MongoDB must be installed
     - Ports 3000 and 8000 must be free on your machine
